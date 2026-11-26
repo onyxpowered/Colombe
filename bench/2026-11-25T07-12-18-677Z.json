@@ -1,0 +1,28 @@
+{
+  "when": "2026-11-25T07:12:18.729Z",
+  "throttle": 4,
+  "seconds": 10,
+  "size": "1366x768",
+  "results": [
+    {
+      "name": "colombe",
+      "ready": true,
+      "throttle": 4,
+      "size": "1366x768",
+      "loadSec": 0.2,
+      "frames": 169,
+      "fps": 17,
+      "p50": 33.4,
+      "p90": 116.7,
+      "p99": 183.3,
+      "worst": 200.1,
+      "over33": 85,
+      "over50": 73,
+      "mainThreadMsPerFrame": 11.66,
+      "scriptMsPerFrame": 5.77,
+      "jsHeapMB": 10,
+      "drawCalls": 2,
+      "triangles": 17780
+    }
+  ]
+}

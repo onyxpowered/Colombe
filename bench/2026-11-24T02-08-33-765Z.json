@@ -1,0 +1,28 @@
+{
+  "when": "2026-11-24T02:08:33.771Z",
+  "throttle": 4,
+  "seconds": 15,
+  "size": "1366x768",
+  "results": [
+    {
+      "name": "007",
+      "ready": true,
+      "throttle": 4,
+      "size": "1366x768",
+      "loadSec": 6.1,
+      "frames": 291,
+      "fps": 19.4,
+      "p50": 33.3,
+      "p90": 33.4,
+      "p99": 100,
+      "worst": 4766.5,
+      "over33": 68,
+      "over50": 12,
+      "mainThreadMsPerFrame": 40.39,
+      "scriptMsPerFrame": 30.41,
+      "jsHeapMB": 198,
+      "drawCalls": null,
+      "triangles": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "unf",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 8100",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 8101",
+    "bench": "node tools/bench.mjs",
+    "test": "node --test test/",
+    "smoke": "node tools/smoke.mjs",
+    "inventory": "node tools/inventory.mjs",
+    "assets": "node tools/inventory.mjs && node tools/optimize.mjs && node tools/retile.mjs && node tools/manifest.mjs"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "draco3d": "^1.5.9",
+    "vite": "^8.3.8",
+    "ws": "^8.23.0"
+  },
+  "description": "UniFi Engine (UNF): vanilla JS engine for REDLINE One"
+}

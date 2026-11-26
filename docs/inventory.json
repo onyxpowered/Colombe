@@ -1,0 +1,6188 @@
+{
+ "src": "/Users/fischerkeatongrant/Projects/007/assets",
+ "byKind": {
+  "code": {
+   "files": 9,
+   "bytes": 4747039,
+   "gzip": 1557324
+  },
+  "audio": {
+   "files": 151,
+   "bytes": 39854964,
+   "gzip": 39363075
+  },
+  "brand": {
+   "files": 4,
+   "bytes": 4360,
+   "gzip": 2087
+  },
+  "image": {
+   "files": 26,
+   "bytes": 3829053,
+   "gzip": 3791483
+  },
+  "font": {
+   "files": 3,
+   "bytes": 259912,
+   "gzip": 173330
+  },
+  "geometry": {
+   "files": 233,
+   "bytes": 19372370,
+   "gzip": 18808191
+  },
+  "icon": {
+   "files": 19,
+   "bytes": 30772,
+   "gzip": 20813
+  },
+  "lib": {
+   "files": 6,
+   "bytes": 1005116,
+   "gzip": 379219
+  }
+ },
+ "dracoByDir": {
+  "geometries/avatar/accessories": {
+   "files": 31,
+   "bytes": 142282,
+   "tris": 25005,
+   "points": 14552
+  },
+  "geometries/avatar": {
+   "files": 8,
+   "bytes": 213898,
+   "tris": 0,
+   "points": 20702
+  },
+  "geometries/birds": {
+   "files": 4,
+   "bytes": 5394,
+   "tris": 368,
+   "points": 1042
+  },
+  "geometries/deliveries": {
+   "files": 6,
+   "bytes": 6419,
+   "tris": 770,
+   "points": 749
+  },
+  "geometries/emojis": {
+   "files": 10,
+   "bytes": 23061,
+   "tris": 4767,
+   "points": 3105
+  },
+  "geometries/npcs/present/alien": {
+   "files": 3,
+   "bytes": 98841,
+   "tris": 2575,
+   "points": 11067
+  },
+  "geometries/npcs/present/boss": {
+   "files": 3,
+   "bytes": 44731,
+   "tris": 3684,
+   "points": 5153
+  },
+  "geometries/npcs/present/caveman": {
+   "files": 3,
+   "bytes": 66756,
+   "tris": 3483,
+   "points": 8053
+  },
+  "geometries/npcs/present/chef": {
+   "files": 3,
+   "bytes": 89378,
+   "tris": 3765,
+   "points": 10207
+  },
+  "geometries/npcs/present/diver": {
+   "files": 5,
+   "bytes": 116151,
+   "tris": 3539,
+   "points": 9835
+  },
+  "geometries/npcs/present/factory-worker-a": {
+   "files": 3,
+   "bytes": 67842,
+   "tris": 3823,
+   "points": 8291
+  },
+  "geometries/npcs/present/factory-worker-b": {
+   "files": 5,
+   "bytes": 42029,
+   "tris": 3849,
+   "points": 5451
+  },
+  "geometries/npcs/present/factory-worker-c": {
+   "files": 3,
+   "bytes": 54979,
+   "tris": 3849,
+   "points": 6318
+  },
+  "geometries/npcs/present/female-scientist": {
+   "files": 3,
+   "bytes": 52489,
+   "tris": 3648,
+   "points": 6112
+  },
+  "geometries/npcs/present/fox": {
+   "files": 3,
+   "bytes": 25163,
+   "tris": 1408,
+   "points": 3082
+  },
+  "geometries/npcs/present/male-scientist": {
+   "files": 3,
+   "bytes": 73311,
+   "tris": 4374,
+   "points": 8847
+  },
+  "geometries/npcs/present/mountainman": {
+   "files": 3,
+   "bytes": 37977,
+   "tris": 3126,
+   "points": 4295
+  },
+  "geometries/npcs/present/musician": {
+   "files": 4,
+   "bytes": 56147,
+   "tris": 4100,
+   "points": 6817
+  },
+  "geometries/npcs/present/office-worker": {
+   "files": 8,
+   "bytes": 170151,
+   "tris": 7602,
+   "points": 18758
+  },
+  "geometries/npcs/present/oldwoman": {
+   "files": 3,
+   "bytes": 30404,
+   "tris": 2801,
+   "points": 3685
+  },
+  "geometries/npcs/present/owl": {
+   "files": 3,
+   "bytes": 12404,
+   "tris": 1132,
+   "points": 1811
+  },
+  "geometries/npcs/present/scout": {
+   "files": 3,
+   "bytes": 67789,
+   "tris": 3380,
+   "points": 7042
+  },
+  "geometries/npcs/present": {
+   "files": 1,
+   "bytes": 1296,
+   "tris": 0,
+   "points": 349
+  },
+  "geometries/npcs/present/threekid": {
+   "files": 3,
+   "bytes": 37676,
+   "tris": 3338,
+   "points": 3806
+  },
+  "geometries/npcs/present/young-lady": {
+   "files": 5,
+   "bytes": 78185,
+   "tris": 2968,
+   "points": 8309
+  },
+  "geometries/planets/intro": {
+   "files": 1,
+   "bytes": 4151,
+   "tris": 0,
+   "points": 484
+  },
+  "geometries/planets/present": {
+   "files": 60,
+   "bytes": 10245645,
+   "tris": 1348168,
+   "points": 1689272
+  },
+  "geometries/planets/present/intro": {
+   "files": 7,
+   "bytes": 442639,
+   "tris": 90067,
+   "points": 102324
+  },
+  "geometries/planets/present/intro/low": {
+   "files": 1,
+   "bytes": 275759,
+   "tris": 44089,
+   "points": 65118
+  },
+  "geometries/planets/present/low": {
+   "files": 35,
+   "bytes": 6789423,
+   "tris": 823851,
+   "points": 1050142
+  }
+ },
+ "rows": [
+  {
+   "rel": "App3D-DwM1eiaC.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 4386438,
+   "gzip": 1452871,
+   "ref": "n/a"
+  },
+  {
+   "rel": "audio/ambiances/base.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 145196,
+   "gzip": 142524,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 76
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/base.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 85309,
+   "gzip": 85058,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/beach.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 149516,
+   "gzip": 147175,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 78
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/beach.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 85767,
+   "gzip": 85713,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/city.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 130148,
+   "gzip": 127703,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 68
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/city.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 86228,
+   "gzip": 86088,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/factory.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 133172,
+   "gzip": 130665,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 69
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/factory.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 86163,
+   "gzip": 85849,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/forest.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 148460,
+   "gzip": 146062,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 77
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/forest.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 84350,
+   "gzip": 84168,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/temple.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 175916,
+   "gzip": 173936,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 92
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/temple.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 96209,
+   "gzip": 96217,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 50
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/waterfalls.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 148700,
+   "gzip": 146121,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.36,
+    "kbps": 77
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ambiances/waterfalls.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 85435,
+   "gzip": 85240,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 15.37,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/whoosh2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 12476,
+   "gzip": 11856,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.5,
+    "kbps": 67
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/whoosh2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 8166,
+   "gzip": 8175,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.51,
+    "kbps": 43
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/zoom-in-5.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 8252,
+   "gzip": 7358,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.21,
+    "kbps": 54
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/zoom-in-5.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 6736,
+   "gzip": 6754,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.22,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/zoom-off-5.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 7364,
+   "gzip": 6401,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.13,
+    "kbps": 52
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/camera/zoom-off-5.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 6400,
+   "gzip": 6375,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.14,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/bubble-ends.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4172,
+   "gzip": 3625,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 82
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/bubble-ends.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2527,
+   "gzip": 2550,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/bubble-starts.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4460,
+   "gzip": 3921,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.42,
+    "kbps": 85
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/bubble-starts.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2551,
+   "gzip": 2574,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/clothes.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 6044,
+   "gzip": 5481,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.49,
+    "kbps": 99
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/clothes.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 3008,
+   "gzip": 3031,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.5,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4124,
+   "gzip": 3586,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 81
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2531,
+   "gzip": 2554,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4244,
+   "gzip": 3698,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 84
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2563,
+   "gzip": 2586,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 50
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4172,
+   "gzip": 3625,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 82
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-ends3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2527,
+   "gzip": 2550,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.41,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4604,
+   "gzip": 4013,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.42,
+    "kbps": 88
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2541,
+   "gzip": 2564,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4508,
+   "gzip": 3965,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.42,
+    "kbps": 86
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2604,
+   "gzip": 2627,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4460,
+   "gzip": 3921,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.42,
+    "kbps": 85
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/emoji-starts3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2551,
+   "gzip": 2574,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/footsteps-water.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 72932,
+   "gzip": 71283,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 5.95,
+    "kbps": 98
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/footsteps-water.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 39370,
+   "gzip": 39387,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 5.96,
+    "kbps": 53
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/footsteps4.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 70916,
+   "gzip": 67512,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.88,
+    "kbps": 83
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/footsteps4.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 40929,
+   "gzip": 40940,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.88,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/jump-land.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 3668,
+   "gzip": 3036,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 87
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/jump-land.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1942,
+   "gzip": 1965,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/jump-start.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 3140,
+   "gzip": 2536,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.22,
+    "kbps": 114
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/character/jump-start.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1492,
+   "gzip": 1515,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.23,
+    "kbps": 52
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 69836,
+   "gzip": 68674,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.87,
+    "kbps": 81
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 42154,
+   "gzip": 42158,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.87,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 73820,
+   "gzip": 72719,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.88,
+    "kbps": 86
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 42223,
+   "gzip": 42229,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.89,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 74468,
+   "gzip": 73400,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.95,
+    "kbps": 86
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/female3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 43148,
+   "gzip": 43161,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.96,
+    "kbps": 50
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 65852,
+   "gzip": 64779,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.48,
+    "kbps": 81
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 39246,
+   "gzip": 39252,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.48,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 65972,
+   "gzip": 64873,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 5.76,
+    "kbps": 92
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 34948,
+   "gzip": 34958,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 5.77,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 67148,
+   "gzip": 66054,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.5,
+    "kbps": 83
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/male3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 39643,
+   "gzip": 39650,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.51,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/quest.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 48812,
+   "gzip": 48070,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 3.99,
+    "kbps": 98
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/quest.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 31572,
+   "gzip": 31587,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 4,
+    "kbps": 63
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/wtf.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 43820,
+   "gzip": 42984,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 4.03,
+    "kbps": 87
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/dialogues/wtf.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 27012,
+   "gzip": 27025,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 4.03,
+    "kbps": 54
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/fk/fk1.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 32649,
+   "gzip": 29298,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 1.69,
+    "kbps": 155
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/fk/fk2.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 20482,
+   "gzip": 17041,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 1.3,
+    "kbps": 126
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/fk/fk3.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 10941,
+   "gzip": 7414,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 0.43,
+    "kbps": 205
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/intro/button-out.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 8924,
+   "gzip": 8310,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.06,
+    "kbps": 68
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/button-out.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 5896,
+   "gzip": 5912,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.06,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/button-turn.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2804,
+   "gzip": 2031,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.33,
+    "kbps": 67
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/button-turn.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2300,
+   "gzip": 2292,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 54
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/letters.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 11900,
+   "gzip": 11267,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.53,
+    "kbps": 62
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/letters.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 8335,
+   "gzip": 8343,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.53,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2468,
+   "gzip": 1583,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 58
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1777,
+   "gzip": 1800,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.35,
+    "kbps": 41
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2444,
+   "gzip": 1510,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.36,
+    "kbps": 55
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1863,
+   "gzip": 1886,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.36,
+    "kbps": 41
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2396,
+   "gzip": 1448,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.36,
+    "kbps": 54
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1801,
+   "gzip": 1824,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.36,
+    "kbps": 40
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune4.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2396,
+   "gzip": 1460,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 56
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/intro/rune4.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1718,
+   "gzip": 1741,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.35,
+    "kbps": 39
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/bgmusic-highq.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 3244412,
+   "gzip": 3230049,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 162.41,
+    "kbps": 160
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/bgmusic-highq.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2310818,
+   "gzip": 2311372,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 162.41,
+    "kbps": 114
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/bgmusic-mobile.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 1404764,
+   "gzip": 1382212,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 162.41,
+    "kbps": 69
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/bgmusic-mobile.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1144759,
+   "gzip": 1144325,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 162.41,
+    "kbps": 56
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/musician.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 105572,
+   "gzip": 103093,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 14.77,
+    "kbps": 57
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/music/musician.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 98494,
+   "gzip": 98358,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 14.78,
+    "kbps": 53
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ost/t1.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3416113,
+   "gzip": 3379120,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 204.59,
+    "kbps": 134
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t2.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3149219,
+   "gzip": 3113038,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 196.07,
+    "kbps": 128
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t3.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3253577,
+   "gzip": 3211234,
+   "audio": {
+    "codec": "aac",
+    "rate": 44100,
+    "ch": 2,
+    "sec": 224.79,
+    "kbps": 116
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t4.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3287004,
+   "gzip": 3258367,
+   "audio": {
+    "codec": "aac",
+    "rate": 44100,
+    "ch": 2,
+    "sec": 199.02,
+    "kbps": 132
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t5.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 4082524,
+   "gzip": 4038916,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 254.12,
+    "kbps": 129
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t6.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 4042378,
+   "gzip": 3965947,
+   "audio": {
+    "codec": "aac",
+    "rate": 44100,
+    "ch": 2,
+    "sec": 330.84,
+    "kbps": 98
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t7.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3320580,
+   "gzip": 3274597,
+   "audio": {
+    "codec": "aac",
+    "rate": 44100,
+    "ch": 2,
+    "sec": 231.78,
+    "kbps": 115
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/ost/t8.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3260676,
+   "gzip": 3199726,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 2,
+    "sec": 252.65,
+    "kbps": 103
+   },
+   "ref": "none"
+  },
+  {
+   "rel": "audio/sfx/CREDITS.txt",
+   "kind": "audio",
+   "ext": ".txt",
+   "bytes": 557,
+   "gzip": 344,
+   "ref": "none"
+  },
+  {
+   "rel": "audio/sfx/ach.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 2748,
+   "gzip": 2396,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.13,
+    "kbps": 166
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/chat.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 2631,
+   "gzip": 2288,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.11,
+    "kbps": 188
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/death.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 6983,
+   "gzip": 6597,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.47,
+    "kbps": 118
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/drop.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3505,
+   "gzip": 3064,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.18,
+    "kbps": 153
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/elim.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 8119,
+   "gzip": 7705,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.56,
+    "kbps": 116
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/elim2.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3307,
+   "gzip": 2949,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.18,
+    "kbps": 146
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/empty.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 1772,
+   "gzip": 1409,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.04,
+    "kbps": 315
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/fall.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3021,
+   "gzip": 2611,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.14,
+    "kbps": 172
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_ar.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 17137,
+   "gzip": 16677,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.3,
+    "kbps": 105
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_burst.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 15767,
+   "gzip": 15299,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.2,
+    "kbps": 105
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_cannon.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 20608,
+   "gzip": 20132,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.6,
+    "kbps": 103
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_minigun.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 10974,
+   "gzip": 10568,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.8,
+    "kbps": 110
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_pistol.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 17006,
+   "gzip": 16541,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.3,
+    "kbps": 105
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_pump.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 19423,
+   "gzip": 18925,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.5,
+    "kbps": 104
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_smg.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 13504,
+   "gzip": 13058,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1,
+    "kbps": 108
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_sniper.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 25575,
+   "gzip": 24999,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 2,
+    "kbps": 102
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/g_tactical.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 19345,
+   "gzip": 18842,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.5,
+    "kbps": 103
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/hit.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 7214,
+   "gzip": 6839,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.49,
+    "kbps": 118
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/land.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 2405,
+   "gzip": 2071,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.11,
+    "kbps": 179
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/landhard.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 7856,
+   "gzip": 7496,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.54,
+    "kbps": 117
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/lose.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 7798,
+   "gzip": 7418,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.55,
+    "kbps": 114
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/mantle.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 2596,
+   "gzip": 2212,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.12,
+    "kbps": 176
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/pause.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3817,
+   "gzip": 3304,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.62,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/pickup.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 1990,
+   "gzip": 1652,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.06,
+    "kbps": 255
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/r_pistol.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 19695,
+   "gzip": 19260,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.51,
+    "kbps": 105
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/r_rifle.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 18492,
+   "gzip": 18045,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.4,
+    "kbps": 105
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/r_shotgun.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 6440,
+   "gzip": 6096,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 121
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/rankup.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 5935,
+   "gzip": 5564,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.39,
+    "kbps": 123
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/ui.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 1418,
+   "gzip": 989,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.01,
+    "kbps": 976
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/use.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 2722,
+   "gzip": 2379,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.14,
+    "kbps": 155
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/sfx/win.m4a",
+   "kind": "audio",
+   "ext": ".m4a",
+   "bytes": 3984,
+   "gzip": 3647,
+   "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.24,
+    "kbps": 130
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/buttons2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 6500,
+   "gzip": 5920,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.59,
+    "kbps": 88
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/buttons2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 4224,
+   "gzip": 4247,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.59,
+    "kbps": 57
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/click2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 4964,
+   "gzip": 4333,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.34,
+    "kbps": 117
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/click2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2114,
+   "gzip": 2137,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.35,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/click3.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 6692,
+   "gzip": 6137,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.62,
+    "kbps": 86
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/click3.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 3462,
+   "gzip": 3485,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.63,
+    "kbps": 44
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/customize.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 12092,
+   "gzip": 11552,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.1,
+    "kbps": 88
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/customize.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 6648,
+   "gzip": 6661,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 1.11,
+    "kbps": 48
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/hover2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 2972,
+   "gzip": 2399,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.15,
+    "kbps": 154
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/hover2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1124,
+   "gzip": 1137,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.16,
+    "kbps": 56
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox-checklist.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 8636,
+   "gzip": 8125,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.79,
+    "kbps": 88
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox-checklist.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 4600,
+   "gzip": 4623,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.79,
+    "kbps": 46
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox-emote.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 6644,
+   "gzip": 6039,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.51,
+    "kbps": 104
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox-emote.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 4070,
+   "gzip": 4093,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.52,
+    "kbps": 63
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 3740,
+   "gzip": 3203,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.26,
+    "kbps": 114
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 1749,
+   "gzip": 1772,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.27,
+    "kbps": 52
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox2.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 5156,
+   "gzip": 4623,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.43,
+    "kbps": 96
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/openbox2.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 2662,
+   "gzip": 2685,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 0.44,
+    "kbps": 49
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/paper1.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 74540,
+   "gzip": 73307,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.89,
+    "kbps": 87
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/paper1.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 39101,
+   "gzip": 39104,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 6.9,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/paper4.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 118892,
+   "gzip": 116946,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 11.41,
+    "kbps": 83
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/paper4.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 63541,
+   "gzip": 63533,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 11.42,
+    "kbps": 45
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/quest-complete.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 19460,
+   "gzip": 16935,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 3.61,
+    "kbps": 43
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/quest-complete.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 23394,
+   "gzip": 23318,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 3.61,
+    "kbps": 52
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/title.mp3",
+   "kind": "audio",
+   "ext": ".mp3",
+   "bytes": 62132,
+   "gzip": 59985,
+   "audio": {
+    "codec": "mp3",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 7.65,
+    "kbps": 65
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "audio/ui/title.ogg",
+   "kind": "audio",
+   "ext": ".ogg",
+   "bytes": 41310,
+   "gzip": 41256,
+   "audio": {
+    "codec": "opus",
+    "rate": 48000,
+    "ch": 1,
+    "sec": 7.66,
+    "kbps": 43
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "bitmapworker-DtCLhbWB.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 3641,
+   "gzip": 1387,
+   "ref": "n/a"
+  },
+  {
+   "rel": "brand/REDLINEdark.svg",
+   "kind": "brand",
+   "ext": ".svg",
+   "bytes": 1358,
+   "gzip": 648,
+   "ref": "none"
+  },
+  {
+   "rel": "brand/REDLINEdarkr.svg",
+   "kind": "brand",
+   "ext": ".svg",
+   "bytes": 822,
+   "gzip": 396,
+   "ref": "none"
+  },
+  {
+   "rel": "brand/REDLINElight.svg",
+   "kind": "brand",
+   "ext": ".svg",
+   "bytes": 1358,
+   "gzip": 648,
+   "ref": "none"
+  },
+  {
+   "rel": "brand/REDLINElightr.svg",
+   "kind": "brand",
+   "ext": ".svg",
+   "bytes": 822,
+   "gzip": 395,
+   "ref": "none"
+  },
+  {
+   "rel": "charactergeoworker-D8pdYVWP.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 77610,
+   "gzip": 21223,
+   "ref": "n/a"
+  },
+  {
+   "rel": "collisionworker-eT5h7hIA.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 125306,
+   "gzip": 35399,
+   "ref": "n/a"
+  },
+  {
+   "rel": "dracoworker-9mmlh0V-.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 2894,
+   "gzip": 1426,
+   "ref": "n/a"
+  },
+  {
+   "rel": "favicon16-B6JSd80n.png",
+   "kind": "image",
+   "ext": ".png",
+   "bytes": 2416,
+   "gzip": 1889,
+   "ref": "none"
+  },
+  {
+   "rel": "fonts/UglyDave-Alternates-optimized.font",
+   "kind": "font",
+   "ext": ".font",
+   "bytes": 222264,
+   "gzip": 153194,
+   "ref": "name"
+  },
+  {
+   "rel": "fonts/heading.font",
+   "kind": "font",
+   "ext": ".font",
+   "bytes": 27236,
+   "gzip": 15774,
+   "ref": "name"
+  },
+  {
+   "rel": "fonts/planet.font",
+   "kind": "font",
+   "ext": ".font",
+   "bytes": 10412,
+   "gzip": 4362,
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/base.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 7576,
+   "gzip": 6986,
+   "draco": {
+    "points": 889,
+    "faces": 1560,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5249,
+   "gzip": 4982,
+   "draco": {
+    "points": 511,
+    "faces": 838,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3762,
+   "gzip": 3541,
+   "draco": {
+    "points": 406,
+    "faces": 684,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4003,
+   "gzip": 3710,
+   "draco": {
+    "points": 376,
+    "faces": 732,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5814,
+   "gzip": 5501,
+   "draco": {
+    "points": 520,
+    "faces": 932,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5484,
+   "gzip": 5235,
+   "draco": {
+    "points": 513,
+    "faces": 838,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4835,
+   "gzip": 4556,
+   "draco": {
+    "points": 377,
+    "faces": 696,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/bottom7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4896,
+   "gzip": 4562,
+   "draco": {
+    "points": 378,
+    "faces": 760,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2293,
+   "gzip": 2236,
+   "draco": {
+    "points": 306,
+    "faces": 600,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2175,
+   "gzip": 2080,
+   "draco": {
+    "points": 278,
+    "faces": 528,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4373,
+   "gzip": 4228,
+   "draco": {
+    "points": 611,
+    "faces": 1181,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4007,
+   "gzip": 3902,
+   "draco": {
+    "points": 650,
+    "faces": 1108,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2220,
+   "gzip": 2081,
+   "draco": {
+    "points": 278,
+    "faces": 528,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2896,
+   "gzip": 2835,
+   "draco": {
+    "points": 397,
+    "faces": 744,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/hair7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4375,
+   "gzip": 4226,
+   "draco": {
+    "points": 611,
+    "faces": 1181,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3190,
+   "gzip": 3040,
+   "draco": {
+    "points": 316,
+    "faces": 488,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3139,
+   "gzip": 2957,
+   "draco": {
+    "points": 292,
+    "faces": 440,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3191,
+   "gzip": 3024,
+   "draco": {
+    "points": 316,
+    "faces": 488,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3064,
+   "gzip": 2942,
+   "draco": {
+    "points": 324,
+    "faces": 484,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1683,
+   "gzip": 1564,
+   "draco": {
+    "points": 152,
+    "faces": 208,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3240,
+   "gzip": 3130,
+   "draco": {
+    "points": 298,
+    "faces": 508,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/shoes7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3877,
+   "gzip": 3720,
+   "draco": {
+    "points": 472,
+    "faces": 610,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6071,
+   "gzip": 5685,
+   "draco": {
+    "points": 651,
+    "faces": 1046,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6928,
+   "gzip": 6572,
+   "draco": {
+    "points": 664,
+    "faces": 1204,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5060,
+   "gzip": 4786,
+   "draco": {
+    "points": 408,
+    "faces": 730,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 8356,
+   "gzip": 8157,
+   "draco": {
+    "points": 814,
+    "faces": 1254,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6643,
+   "gzip": 6446,
+   "draco": {
+    "points": 597,
+    "faces": 1070,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5891,
+   "gzip": 5648,
+   "draco": {
+    "points": 502,
+    "faces": 932,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6257,
+   "gzip": 6029,
+   "draco": {
+    "points": 606,
+    "faces": 966,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6420,
+   "gzip": 6233,
+   "draco": {
+    "points": 621,
+    "faces": 922,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/accessories/top9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5314,
+   "gzip": 5172,
+   "draco": {
+    "points": 418,
+    "faces": 745,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-afk1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 94396,
+   "gzip": 80177,
+   "draco": {
+    "points": 9768,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-afk2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 40383,
+   "gzip": 35728,
+   "draco": {
+    "points": 3960,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-afk3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 33768,
+   "gzip": 29752,
+   "draco": {
+    "points": 3080,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-air.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 10590,
+   "gzip": 7341,
+   "draco": {
+    "points": 880,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 590,
+   "gzip": 576,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 22235,
+   "gzip": 18901,
+   "draco": {
+    "points": 1980,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-run.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5959,
+   "gzip": 5250,
+   "draco": {
+    "points": 506,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/avatar/avatar-sprint.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5977,
+   "gzip": 5293,
+   "draco": {
+    "points": 506,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/birds/1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1473,
+   "gzip": 1470,
+   "draco": {
+    "points": 231,
+    "faces": 248,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/birds/2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 897,
+   "gzip": 894,
+   "draco": {
+    "points": 83,
+    "faces": 120,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/birds/curve-1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1736,
+   "gzip": 1759,
+   "draco": {
+    "points": 432,
+    "faces": 0,
+    "attrs": "0:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/birds/curve-2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1288,
+   "gzip": 1311,
+   "draco": {
+    "points": 296,
+    "faces": 0,
+    "attrs": "0:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/clothes.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2076,
+   "gzip": 2029,
+   "draco": {
+    "points": 213,
+    "faces": 356,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/letterwet.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 814,
+   "gzip": 805,
+   "draco": {
+    "points": 73,
+    "faces": 58,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/note.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 808,
+   "gzip": 773,
+   "draco": {
+    "points": 68,
+    "faces": 46,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/offering.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1166,
+   "gzip": 1078,
+   "draco": {
+    "points": 209,
+    "faces": 170,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/postcard.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 762,
+   "gzip": 701,
+   "draco": {
+    "points": 74,
+    "faces": 44,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/deliveries/samplebox.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 793,
+   "gzip": 725,
+   "draco": {
+    "points": 112,
+    "faces": 96,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 903,
+   "gzip": 897,
+   "draco": {
+    "points": 72,
+    "faces": 140,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/10.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1348,
+   "gzip": 1246,
+   "draco": {
+    "points": 186,
+    "faces": 230,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2416,
+   "gzip": 2400,
+   "draco": {
+    "points": 286,
+    "faces": 489,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2316,
+   "gzip": 2309,
+   "draco": {
+    "points": 262,
+    "faces": 508,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1818,
+   "gzip": 1774,
+   "draco": {
+    "points": 264,
+    "faces": 168,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3734,
+   "gzip": 3615,
+   "draco": {
+    "points": 480,
+    "faces": 828,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2751,
+   "gzip": 2528,
+   "draco": {
+    "points": 474,
+    "faces": 696,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2348,
+   "gzip": 2174,
+   "draco": {
+    "points": 352,
+    "faces": 568,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 2352,
+   "gzip": 2106,
+   "draco": {
+    "points": 256,
+    "faces": 472,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/emojis/9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3075,
+   "gzip": 3016,
+   "draco": {
+    "points": 473,
+    "faces": 668,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/alien/alien-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 708,
+   "gzip": 687,
+   "draco": {
+    "points": 28,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/alien/alien-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 84079,
+   "gzip": 52986,
+   "draco": {
+    "points": 8960,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/alien/alien.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 14054,
+   "gzip": 13193,
+   "draco": {
+    "points": 2079,
+    "faces": 2575,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/boss/boss-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 744,
+   "gzip": 726,
+   "draco": {
+    "points": 32,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/boss/boss-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 21098,
+   "gzip": 14524,
+   "draco": {
+    "points": 2784,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/boss/boss.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 22889,
+   "gzip": 21747,
+   "draco": {
+    "points": 2337,
+    "faces": 3684,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/caveman/caveman-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 698,
+   "gzip": 680,
+   "draco": {
+    "points": 27,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/caveman/caveman-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 45752,
+   "gzip": 27760,
+   "draco": {
+    "points": 5535,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/caveman/caveman.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 20306,
+   "gzip": 19513,
+   "draco": {
+    "points": 2491,
+    "faces": 3483,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/chef/chef-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 699,
+   "gzip": 676,
+   "draco": {
+    "points": 28,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/chef/chef-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 65790,
+   "gzip": 53481,
+   "draco": {
+    "points": 7532,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/chef/chef.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 22889,
+   "gzip": 22649,
+   "draco": {
+    "points": 2647,
+    "faces": 3765,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/diver/diver-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 633,
+   "gzip": 618,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/diver/diver-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 32399,
+   "gzip": 26921,
+   "draco": {
+    "points": 2750,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/diver/diver-talk-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 37230,
+   "gzip": 28483,
+   "draco": {
+    "points": 2860,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/diver/diver-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 27737,
+   "gzip": 22377,
+   "draco": {
+    "points": 1980,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/diver/diver.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 18152,
+   "gzip": 17008,
+   "draco": {
+    "points": 2223,
+    "faces": 3539,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-a/factory-worker-a-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 697,
+   "gzip": 669,
+   "draco": {
+    "points": 28,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-a/factory-worker-a-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 46537,
+   "gzip": 32116,
+   "draco": {
+    "points": 5740,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-a/factory-worker-a.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 20608,
+   "gzip": 19554,
+   "draco": {
+    "points": 2523,
+    "faces": 3823,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-b/curve-1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 977,
+   "gzip": 1000,
+   "draco": {
+    "points": 255,
+    "faces": 0,
+    "attrs": "0:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-b/factory-worker-b-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 684,
+   "gzip": 658,
+   "draco": {
+    "points": 27,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-b/factory-worker-b-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 9303,
+   "gzip": 1133,
+   "draco": {
+    "points": 1647,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-b/factory-worker-b-walk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 10773,
+   "gzip": 9695,
+   "draco": {
+    "points": 999,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-b/factory-worker-b.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 20292,
+   "gzip": 19276,
+   "draco": {
+    "points": 2523,
+    "faces": 3849,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-c/factory-worker-c-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 684,
+   "gzip": 658,
+   "draco": {
+    "points": 27,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-c/factory-worker-c-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 33781,
+   "gzip": 27607,
+   "draco": {
+    "points": 3780,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/factory-worker-c/factory-worker-c.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 20514,
+   "gzip": 19491,
+   "draco": {
+    "points": 2511,
+    "faces": 3849,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/female-scientist/female-scientist-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 694,
+   "gzip": 674,
+   "draco": {
+    "points": 27,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/female-scientist/female-scientist-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 29897,
+   "gzip": 23251,
+   "draco": {
+    "points": 3456,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/female-scientist/female-scientist.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 21898,
+   "gzip": 20823,
+   "draco": {
+    "points": 2629,
+    "faces": 3648,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/fox/fox-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 502,
+   "gzip": 481,
+   "draco": {
+    "points": 18,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/fox/fox-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 15796,
+   "gzip": 8607,
+   "draco": {
+    "points": 2160,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/fox/fox.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 8865,
+   "gzip": 8340,
+   "draco": {
+    "points": 904,
+    "faces": 1408,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/male-scientist/male-scientist-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 691,
+   "gzip": 656,
+   "draco": {
+    "points": 27,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/male-scientist/male-scientist-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 48854,
+   "gzip": 38755,
+   "draco": {
+    "points": 5913,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/male-scientist/male-scientist.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 23766,
+   "gzip": 22583,
+   "draco": {
+    "points": 2907,
+    "faces": 4374,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/mountainman/mountainman-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 640,
+   "gzip": 617,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/mountainman/mountainman-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 19283,
+   "gzip": 14685,
+   "draco": {
+    "points": 2200,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/mountainman/mountainman.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 18054,
+   "gzip": 17071,
+   "draco": {
+    "points": 2073,
+    "faces": 3126,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/musician/musician-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 644,
+   "gzip": 620,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/musician/musician-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 19380,
+   "gzip": 12047,
+   "draco": {
+    "points": 2398,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/musician/musician-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 12714,
+   "gzip": 7634,
+   "draco": {
+    "points": 1518,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/musician/musician.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 23409,
+   "gzip": 21949,
+   "draco": {
+    "points": 2879,
+    "faces": 4100,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-alt.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 19189,
+   "gzip": 18048,
+   "draco": {
+    "points": 2357,
+    "faces": 3626,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 631,
+   "gzip": 610,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-idle-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 23838,
+   "gzip": 18979,
+   "draco": {
+    "points": 2618,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 74972,
+   "gzip": 54480,
+   "draco": {
+    "points": 8338,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 14376,
+   "gzip": 12658,
+   "draco": {
+    "points": 1342,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-walk-alt.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 8047,
+   "gzip": 7147,
+   "draco": {
+    "points": 814,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker-walk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 7811,
+   "gzip": 7120,
+   "draco": {
+    "points": 792,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/office-worker/office-worker.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 21287,
+   "gzip": 19983,
+   "draco": {
+    "points": 2475,
+    "faces": 3976,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/oldwoman/oldwoman-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 650,
+   "gzip": 624,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/oldwoman/oldwoman-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 13350,
+   "gzip": 8896,
+   "draco": {
+    "points": 1760,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/oldwoman/oldwoman.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 16404,
+   "gzip": 15491,
+   "draco": {
+    "points": 1903,
+    "faces": 2801,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/owl/owl-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 431,
+   "gzip": 410,
+   "draco": {
+    "points": 9,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/owl/owl-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6736,
+   "gzip": 3970,
+   "draco": {
+    "points": 1080,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/owl/owl.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5237,
+   "gzip": 5044,
+   "draco": {
+    "points": 722,
+    "faces": 1132,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/scout/scout-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 688,
+   "gzip": 655,
+   "draco": {
+    "points": 28,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/scout/scout-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 45076,
+   "gzip": 40625,
+   "draco": {
+    "points": 4312,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/scout/scout.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 22025,
+   "gzip": 21256,
+   "draco": {
+    "points": 2702,
+    "faces": 3380,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/tall-man-curve.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1296,
+   "gzip": 1319,
+   "draco": {
+    "points": 349,
+    "faces": 0,
+    "attrs": "0:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/threekid/threekid-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 639,
+   "gzip": 619,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/threekid/threekid-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 16287,
+   "gzip": 13632,
+   "draco": {
+    "points": 1474,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/threekid/threekid.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 20750,
+   "gzip": 20068,
+   "draco": {
+    "points": 2310,
+    "faces": 3338,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/young-lady/young-lady-bones.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 637,
+   "gzip": 616,
+   "draco": {
+    "points": 22,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/young-lady/young-lady-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 29894,
+   "gzip": 25791,
+   "draco": {
+    "points": 3036,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/young-lady/young-lady-talk-idle.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 15817,
+   "gzip": 11592,
+   "draco": {
+    "points": 1760,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/young-lady/young-lady-talk.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 15091,
+   "gzip": 9669,
+   "draco": {
+    "points": 1540,
+    "faces": 0,
+    "attrs": "0:3,4:4,4:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/npcs/present/young-lady/young-lady.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 16746,
+   "gzip": 15838,
+   "draco": {
+    "points": 1951,
+    "faces": 2968,
+    "attrs": "4:4,4:4,0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/intro/points.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4151,
+   "gzip": 4144,
+   "draco": {
+    "points": 484,
+    "faces": 0,
+    "attrs": "0:3,2:3"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/beachfoam_vfx.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6898,
+   "gzip": 6913,
+   "draco": {
+    "points": 987,
+    "faces": 1840,
+    "attrs": "0:3,1:3,3:2"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/butterflies.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1557,
+   "gzip": 1538,
+   "draco": {
+    "points": 80,
+    "faces": 0,
+    "attrs": "0:3,4:3,4:4,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/cables-1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3218,
+   "gzip": 2888,
+   "draco": {
+    "points": 306,
+    "faces": 292,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/cables-2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1678,
+   "gzip": 1500,
+   "draco": {
+    "points": 112,
+    "faces": 106,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:3,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 302516,
+   "gzip": 299190,
+   "draco": {
+    "points": 50794,
+    "faces": 42086,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 288935,
+   "gzip": 285471,
+   "draco": {
+    "points": 46935,
+    "faces": 42865,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 264042,
+   "gzip": 260914,
+   "draco": {
+    "points": 43715,
+    "faces": 36568,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 269737,
+   "gzip": 266902,
+   "draco": {
+    "points": 44908,
+    "faces": 36897,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 230415,
+   "gzip": 227915,
+   "draco": {
+    "points": 38147,
+    "faces": 31835,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 259920,
+   "gzip": 256877,
+   "draco": {
+    "points": 41623,
+    "faces": 36242,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 237215,
+   "gzip": 234424,
+   "draco": {
+    "points": 38579,
+    "faces": 34206,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 209882,
+   "gzip": 207664,
+   "draco": {
+    "points": 34472,
+    "faces": 28923,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 234505,
+   "gzip": 231686,
+   "draco": {
+    "points": 36826,
+    "faces": 33967,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-1_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6391,
+   "gzip": 6139,
+   "draco": {
+    "points": 851,
+    "faces": 616,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 264695,
+   "gzip": 262175,
+   "draco": {
+    "points": 40973,
+    "faces": 31877,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 246144,
+   "gzip": 243738,
+   "draco": {
+    "points": 36782,
+    "faces": 30776,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 230494,
+   "gzip": 228292,
+   "draco": {
+    "points": 35466,
+    "faces": 27685,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 231512,
+   "gzip": 229262,
+   "draco": {
+    "points": 35258,
+    "faces": 27265,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 199847,
+   "gzip": 197906,
+   "draco": {
+    "points": 31061,
+    "faces": 24232,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 220062,
+   "gzip": 217912,
+   "draco": {
+    "points": 33039,
+    "faces": 26918,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 204298,
+   "gzip": 202231,
+   "draco": {
+    "points": 31180,
+    "faces": 25524,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 192811,
+   "gzip": 191165,
+   "draco": {
+    "points": 28842,
+    "faces": 22970,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 198957,
+   "gzip": 196788,
+   "draco": {
+    "points": 29682,
+    "faces": 25446,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-2_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5343,
+   "gzip": 5010,
+   "draco": {
+    "points": 638,
+    "faces": 459,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 197538,
+   "gzip": 195816,
+   "draco": {
+    "points": 27529,
+    "faces": 20103,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 186836,
+   "gzip": 185334,
+   "draco": {
+    "points": 25300,
+    "faces": 19555,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 176647,
+   "gzip": 175020,
+   "draco": {
+    "points": 24731,
+    "faces": 17827,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 184307,
+   "gzip": 182771,
+   "draco": {
+    "points": 25692,
+    "faces": 18601,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 156842,
+   "gzip": 155535,
+   "draco": {
+    "points": 22279,
+    "faces": 16051,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 168528,
+   "gzip": 167034,
+   "draco": {
+    "points": 23040,
+    "faces": 17596,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 159269,
+   "gzip": 157911,
+   "draco": {
+    "points": 21946,
+    "faces": 16528,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 151398,
+   "gzip": 150332,
+   "draco": {
+    "points": 20048,
+    "faces": 14884,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 154661,
+   "gzip": 153259,
+   "draco": {
+    "points": 20813,
+    "faces": 16568,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full-lod-3_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4292,
+   "gzip": 4145,
+   "draco": {
+    "points": 466,
+    "faces": 335,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 324025,
+   "gzip": 320207,
+   "draco": {
+    "points": 56883,
+    "faces": 48763,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 316026,
+   "gzip": 311546,
+   "draco": {
+    "points": 53599,
+    "faces": 51582,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 284887,
+   "gzip": 281252,
+   "draco": {
+    "points": 48790,
+    "faces": 42624,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 293546,
+   "gzip": 289891,
+   "draco": {
+    "points": 51515,
+    "faces": 44265,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 246834,
+   "gzip": 243743,
+   "draco": {
+    "points": 42462,
+    "faces": 37014,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 288290,
+   "gzip": 284568,
+   "draco": {
+    "points": 48537,
+    "faces": 44430,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 266219,
+   "gzip": 262513,
+   "draco": {
+    "points": 44905,
+    "faces": 42141,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 219561,
+   "gzip": 217161,
+   "draco": {
+    "points": 37326,
+    "faces": 32074,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 247213,
+   "gzip": 244002,
+   "draco": {
+    "points": 40003,
+    "faces": 37707,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/full_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 7162,
+   "gzip": 6962,
+   "draco": {
+    "points": 1114,
+    "faces": 819,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/grass.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 10142,
+   "gzip": 10120,
+   "draco": {
+    "points": 660,
+    "faces": 0,
+    "attrs": "0:3,4:3,4:4,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/hitmesh_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 228430,
+   "gzip": 228134,
+   "draco": {
+    "points": 51437,
+    "faces": 45478,
+    "attrs": "0:3,1:3,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/hitmesh_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 273163,
+   "gzip": 272705,
+   "draco": {
+    "points": 67481,
+    "faces": 61707,
+    "attrs": "0:3,1:3,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/hitmesh_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 102580,
+   "gzip": 102345,
+   "draco": {
+    "points": 31186,
+    "faces": 19485,
+    "attrs": "0:3,1:3,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/hitmesh_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 114845,
+   "gzip": 114686,
+   "draco": {
+    "points": 33564,
+    "faces": 21315,
+    "attrs": "0:3,1:3,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/hitmesh_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 281,
+   "gzip": 274,
+   "draco": {
+    "points": 13,
+    "faces": 5,
+    "attrs": "0:3,1:3,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/intro/button.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 356,
+   "gzip": 327,
+   "draco": {
+    "points": 24,
+    "faces": 12,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/clouds.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 3678,
+   "gzip": 3642,
+   "draco": {
+    "points": 474,
+    "faces": 876,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/galaxies.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 1008,
+   "gzip": 945,
+   "draco": {
+    "points": 104,
+    "faces": 52,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/low/planet.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 275759,
+   "gzip": 273400,
+   "draco": {
+    "points": 65118,
+    "faces": 44089,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/planet.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 336980,
+   "gzip": 334028,
+   "draco": {
+    "points": 84102,
+    "faces": 59399,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/title_vertical.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 8441,
+   "gzip": 7993,
+   "draco": {
+    "points": 2934,
+    "faces": 1636,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/intro/trees.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 47443,
+   "gzip": 47372,
+   "draco": {
+    "points": 7627,
+    "faces": 13926,
+    "attrs": "0:3,1:3,3:2,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/intro/water.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 44733,
+   "gzip": 44308,
+   "draco": {
+    "points": 7059,
+    "faces": 14166,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 284611,
+   "gzip": 281761,
+   "draco": {
+    "points": 45810,
+    "faces": 37119,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 271454,
+   "gzip": 268603,
+   "draco": {
+    "points": 42190,
+    "faces": 37509,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 251532,
+   "gzip": 249005,
+   "draco": {
+    "points": 39991,
+    "faces": 32837,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 252998,
+   "gzip": 250458,
+   "draco": {
+    "points": 40191,
+    "faces": 32313,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 217224,
+   "gzip": 215100,
+   "draco": {
+    "points": 34865,
+    "faces": 28355,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 241600,
+   "gzip": 238835,
+   "draco": {
+    "points": 37452,
+    "faces": 31852,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 223914,
+   "gzip": 221411,
+   "draco": {
+    "points": 35168,
+    "faces": 30418,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 204927,
+   "gzip": 202976,
+   "draco": {
+    "points": 32050,
+    "faces": 26535,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 220780,
+   "gzip": 218204,
+   "draco": {
+    "points": 33758,
+    "faces": 30687,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-1_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6100,
+   "gzip": 5691,
+   "draco": {
+    "points": 775,
+    "faces": 558,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 178752,
+   "gzip": 177211,
+   "draco": {
+    "points": 24396,
+    "faces": 17623,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 172763,
+   "gzip": 171321,
+   "draco": {
+    "points": 22838,
+    "faces": 17290,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 164056,
+   "gzip": 162565,
+   "draco": {
+    "points": 22619,
+    "faces": 16025,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 171283,
+   "gzip": 169889,
+   "draco": {
+    "points": 23281,
+    "faces": 16602,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 145685,
+   "gzip": 144456,
+   "draco": {
+    "points": 20133,
+    "faces": 14309,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 155694,
+   "gzip": 154307,
+   "draco": {
+    "points": 20938,
+    "faces": 15762,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 147880,
+   "gzip": 146602,
+   "draco": {
+    "points": 19875,
+    "faces": 14655,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 139445,
+   "gzip": 138409,
+   "draco": {
+    "points": 18018,
+    "faces": 13147,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 143427,
+   "gzip": 142189,
+   "draco": {
+    "points": 18931,
+    "faces": 14763,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full-lod-3_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4123,
+   "gzip": 3987,
+   "draco": {
+    "points": 444,
+    "faces": 312,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 307674,
+   "gzip": 304241,
+   "draco": {
+    "points": 52344,
+    "faces": 43814,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 296417,
+   "gzip": 292692,
+   "draco": {
+    "points": 48686,
+    "faces": 45265,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 268887,
+   "gzip": 265836,
+   "draco": {
+    "points": 44843,
+    "faces": 37893,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 276696,
+   "gzip": 273652,
+   "draco": {
+    "points": 46859,
+    "faces": 39058,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 235673,
+   "gzip": 233173,
+   "draco": {
+    "points": 39398,
+    "faces": 33277,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_5.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 267084,
+   "gzip": 263998,
+   "draco": {
+    "points": 43393,
+    "faces": 38292,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_6.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 243927,
+   "gzip": 240931,
+   "draco": {
+    "points": 39962,
+    "faces": 35908,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_7.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 212501,
+   "gzip": 210177,
+   "draco": {
+    "points": 35175,
+    "faces": 29677,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_8.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 239105,
+   "gzip": 236131,
+   "draco": {
+    "points": 37794,
+    "faces": 35177,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/full_9.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 6847,
+   "gzip": 6457,
+   "draco": {
+    "points": 929,
+    "faces": 679,
+    "attrs": "0:3,1:3,3:2,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/tree-leaves_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 182682,
+   "gzip": 170144,
+   "draco": {
+    "points": 27586,
+    "faces": 12192,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/tree-leaves_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 232569,
+   "gzip": 216894,
+   "draco": {
+    "points": 35582,
+    "faces": 15766,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/tree-leaves_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 245142,
+   "gzip": 229555,
+   "draco": {
+    "points": 37314,
+    "faces": 16496,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/tree-leaves_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 171602,
+   "gzip": 159089,
+   "draco": {
+    "points": 26120,
+    "faces": 11494,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/low/tree-leaves_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4369,
+   "gzip": 3900,
+   "draco": {
+    "points": 434,
+    "faces": 192,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/smoke-1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 5896,
+   "gzip": 5153,
+   "draco": {
+    "points": 642,
+    "faces": 624,
+    "attrs": "0:3,1:3,3:2,3:2,4:3,4:3,4:3,4:1,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/tree-leaves_0.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 312618,
+   "gzip": 293513,
+   "draco": {
+    "points": 50202,
+    "faces": 21530,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/tree-leaves_1.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 261479,
+   "gzip": 245501,
+   "draco": {
+    "points": 41024,
+    "faces": 17594,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/tree-leaves_2.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 256835,
+   "gzip": 239950,
+   "draco": {
+    "points": 40872,
+    "faces": 17432,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/tree-leaves_3.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 236040,
+   "gzip": 220402,
+   "draco": {
+    "points": 37338,
+    "faces": 16008,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/tree-leaves_4.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 49107,
+   "gzip": 45293,
+   "draco": {
+    "points": 7210,
+    "faces": 3068,
+    "attrs": "0:3,1:3,3:2,4:3,4:3,4:4,4:1,4:1,4:1"
+   },
+   "ref": "template"
+  },
+  {
+   "rel": "geometries/planets/present/water.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4767,
+   "gzip": 4782,
+   "draco": {
+    "points": 1091,
+    "faces": 1499,
+    "attrs": "0:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/waterfall_inlet_vfx.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 4331,
+   "gzip": 4201,
+   "draco": {
+    "points": 481,
+    "faces": 784,
+    "attrs": "0:3,1:3,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/waterfall_vfx.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 12959,
+   "gzip": 12584,
+   "draco": {
+    "points": 1731,
+    "faces": 3072,
+    "attrs": "0:3,1:3,3:2,3:2,4:1"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometries/planets/present/waterfallsplash_vfx.drc",
+   "kind": "geometry",
+   "ext": ".drc",
+   "bytes": 27019,
+   "gzip": 26824,
+   "draco": {
+    "points": 6106,
+    "faces": 9505,
+    "attrs": "0:3,1:3,3:2"
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "geometryworker-WyEueJn9.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 54109,
+   "gzip": 15710,
+   "ref": "n/a"
+  },
+  {
+   "rel": "glyphworker-DoaYwstb.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 91731,
+   "gzip": 26948,
+   "ref": "n/a"
+  },
+  {
+   "rel": "images/atlas.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 1699,
+   "gzip": 549,
+   "ktx2": {
+    "broken": true
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/atlas.png",
+   "kind": "image",
+   "ext": ".png",
+   "bytes": 375,
+   "gzip": 398,
+   "ref": "name"
+  },
+  {
+   "rel": "images/butterfly-front-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 1202,
+   "gzip": 1018,
+   "ktx2": {
+    "w": 32,
+    "h": 32,
+    "mips": 6,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/butterfly-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 1278,
+   "gzip": 1113,
+   "ktx2": {
+    "w": 32,
+    "h": 32,
+    "mips": 6,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/clouds_noise_512.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 74409,
+   "gzip": 73925,
+   "ktx2": {
+    "w": 512,
+    "h": 512,
+    "mips": 10,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/clouds_noise_64.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 2305,
+   "gzip": 2042,
+   "ktx2": {
+    "w": 64,
+    "h": 64,
+    "mips": 7,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/controls/circles.avif",
+   "kind": "image",
+   "ext": ".avif",
+   "bytes": 15548,
+   "gzip": 15069,
+   "ref": "name"
+  },
+  {
+   "rel": "images/eye-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 4611,
+   "gzip": 4410,
+   "ktx2": {
+    "w": 256,
+    "h": 64,
+    "mips": 9,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/galaxy.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 4678,
+   "gzip": 4385,
+   "ktx2": {
+    "w": 128,
+    "h": 128,
+    "mips": 8,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/grass-blades-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 51306,
+   "gzip": 51105,
+   "ktx2": {
+    "w": 1280,
+    "h": 256,
+    "mips": 11,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/lut.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 96633,
+   "gzip": 96627,
+   "ktx2": {
+    "w": 32,
+    "h": 32,
+    "mips": 1,
+    "super": "Zstd",
+    "vk": 97
+   },
+   "ref": "exact"
+  },
+  {
+   "rel": "images/mainchar-eye-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 3792,
+   "gzip": 3590,
+   "ktx2": {
+    "w": 256,
+    "h": 64,
+    "mips": 9,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/minimap.png",
+   "kind": "image",
+   "ext": ".png",
+   "bytes": 2247457,
+   "gzip": 2238086,
+   "ref": "exact"
+  },
+  {
+   "rel": "images/mouth-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 18160,
+   "gzip": 17941,
+   "ktx2": {
+    "w": 1024,
+    "h": 256,
+    "mips": 11,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/noise-simplex-layered-blur-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 80922,
+   "gzip": 80763,
+   "ktx2": {
+    "w": 256,
+    "h": 256,
+    "mips": 9,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/noise-simplex-layered-pixellated-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 83772,
+   "gzip": 83624,
+   "ktx2": {
+    "w": 256,
+    "h": 256,
+    "mips": 9,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/noises-terrain.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 13271,
+   "gzip": 12946,
+   "ktx2": {
+    "w": 256,
+    "h": 256,
+    "mips": 9,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/particle_sprites.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 1608,
+   "gzip": 1251,
+   "ktx2": {
+    "w": 256,
+    "h": 16,
+    "mips": 9,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/sky-clouds.webp",
+   "kind": "image",
+   "ext": ".webp",
+   "bytes": 161466,
+   "gzip": 161534,
+   "ref": "exact"
+  },
+  {
+   "rel": "images/trails-noise.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 5763,
+   "gzip": 5483,
+   "ktx2": {
+    "w": 128,
+    "h": 128,
+    "mips": 8,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/tree-leaves-detail.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 3251,
+   "gzip": 2882,
+   "ktx2": {
+    "w": 640,
+    "h": 128,
+    "mips": 10,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/tree-leaves.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 8633,
+   "gzip": 8275,
+   "ktx2": {
+    "w": 512,
+    "h": 512,
+    "mips": 10,
+    "super": "BasisLZ",
+    "vk": 0
+   },
+   "ref": "exact"
+  },
+  {
+   "rel": "images/ui/arrow.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 880,
+   "gzip": 526,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/cross.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1140,
+   "gzip": 747,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/0.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1680,
+   "gzip": 1204,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/1.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 952,
+   "gzip": 641,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/2.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1996,
+   "gzip": 1450,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/3.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1960,
+   "gzip": 1455,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/4.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1200,
+   "gzip": 741,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/5.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1644,
+   "gzip": 1142,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/6.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 2500,
+   "gzip": 1738,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/7.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1672,
+   "gzip": 1023,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/8.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 2464,
+   "gzip": 1854,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/emojis/9.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 2652,
+   "gzip": 1937,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/npc-icons/active.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 588,
+   "gzip": 274,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/npc-icons/inactive.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 536,
+   "gzip": 175,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/sidebuttons/list.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 2276,
+   "gzip": 1223,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/sidebuttons/poo.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 2000,
+   "gzip": 1415,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/sidebuttons/sound-muted.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1736,
+   "gzip": 1263,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/sidebuttons/sound.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1348,
+   "gzip": 894,
+   "ref": "name"
+  },
+  {
+   "rel": "images/ui/sidebuttons/t-shirt.icon",
+   "kind": "icon",
+   "ext": ".icon",
+   "bytes": 1548,
+   "gzip": 1111,
+   "ref": "name"
+  },
+  {
+   "rel": "images/uv/uvchecker-srgb.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 298298,
+   "gzip": 297733,
+   "ktx2": {
+    "w": 2048,
+    "h": 2048,
+    "mips": 12,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "images/uv/uvchecker-srgb.png",
+   "kind": "image",
+   "ext": ".png",
+   "bytes": 434117,
+   "gzip": 412899,
+   "ref": "name"
+  },
+  {
+   "rel": "images/water-noises-highq.ktx2",
+   "kind": "image",
+   "ext": ".ktx2",
+   "bytes": 212083,
+   "gzip": 211946,
+   "ktx2": {
+    "w": 512,
+    "h": 512,
+    "mips": 10,
+    "super": "Zstd",
+    "vk": 0
+   },
+   "ref": "name"
+  },
+  {
+   "rel": "libs/basis/basis_transcoder.js",
+   "kind": "lib",
+   "ext": ".js",
+   "bytes": 67059,
+   "gzip": 16715,
+   "ref": "n/a"
+  },
+  {
+   "rel": "libs/basis/basis_transcoder.wasm",
+   "kind": "lib",
+   "ext": ".wasm",
+   "bytes": 472914,
+   "gzip": 222467,
+   "ref": "n/a"
+  },
+  {
+   "rel": "libs/draco/draco_decoder.wasm",
+   "kind": "lib",
+   "ext": ".wasm",
+   "bytes": 285948,
+   "gzip": 88147,
+   "ref": "n/a"
+  },
+  {
+   "rel": "libs/draco/draco_wasm_wrapper.js",
+   "kind": "lib",
+   "ext": ".js",
+   "bytes": 58548,
+   "gzip": 11716,
+   "ref": "n/a"
+  },
+  {
+   "rel": "libs/glyph/glyph.js",
+   "kind": "lib",
+   "ext": ".js",
+   "bytes": 13341,
+   "gzip": 4678,
+   "ref": "n/a"
+  },
+  {
+   "rel": "libs/glyph/glyph.wasm",
+   "kind": "lib",
+   "ext": ".wasm",
+   "bytes": 107306,
+   "gzip": 35496,
+   "ref": "n/a"
+  },
+  {
+   "rel": "style-BgpnrCnL.css",
+   "kind": "code",
+   "ext": ".css",
+   "bytes": 1493,
+   "gzip": 386,
+   "ref": "n/a"
+  },
+  {
+   "rel": "webgl-CS4l6lxD.js",
+   "kind": "code",
+   "ext": ".js",
+   "bytes": 3817,
+   "gzip": 1974,
+   "ref": "n/a"
+  }
+ ]
+}

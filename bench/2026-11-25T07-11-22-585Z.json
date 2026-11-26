@@ -1,0 +1,12 @@
+{
+  "when": "2026-11-25T07:11:22.589Z",
+  "throttle": 4,
+  "seconds": 10,
+  "size": "1366x768",
+  "results": [
+    {
+      "name": "colombe",
+      "error": "ENOTEMPTY, Directory not empty: '/var/folders/qz/_62vswvs2h36xky3ynb__2n80000gp/T/colombe-bench-e3GJ80'"
+    }
+  ]
+}

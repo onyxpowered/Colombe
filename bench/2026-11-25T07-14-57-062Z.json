@@ -1,0 +1,48 @@
+{
+  "when": "2026-11-25T07:14:57.116Z",
+  "throttle": 4,
+  "seconds": 10,
+  "size": "1366x768",
+  "results": [
+    {
+      "name": "colombe",
+      "ready": true,
+      "throttle": 4,
+      "size": "1366x768",
+      "loadSec": 0.5,
+      "frames": 105,
+      "fps": 10.4,
+      "p50": 66.6,
+      "p90": 150,
+      "p99": 899.9,
+      "worst": 1049.9,
+      "over33": 66,
+      "over50": 58,
+      "mainThreadMsPerFrame": 41.41,
+      "scriptMsPerFrame": 18.46,
+      "jsHeapMB": 8,
+      "drawCalls": 2,
+      "triangles": 17780
+    },
+    {
+      "name": "colombe",
+      "ready": true,
+      "throttle": 4,
+      "size": "1366x768",
+      "loadSec": 0.2,
+      "frames": 170,
+      "fps": 16.9,
+      "p50": 50,
+      "p90": 116.7,
+      "p99": 150,
+      "worst": 150.1,
+      "over33": 92,
+      "over50": 82,
+      "mainThreadMsPerFrame": 9.52,
+      "scriptMsPerFrame": 5.5,
+      "jsHeapMB": 8,
+      "drawCalls": 2,
+      "triangles": 17780
+    }
+  ]
+}

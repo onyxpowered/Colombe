@@ -1,0 +1,12 @@
+{
+  "when": "2026-11-25T07:11:42.665Z",
+  "throttle": 4,
+  "seconds": 10,
+  "size": "1366x768",
+  "results": [
+    {
+      "name": "colombe",
+      "error": "ws.on is not a function"
+    }
+  ]
+}
